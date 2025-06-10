@@ -23,9 +23,10 @@ app.use(express.json());
 
 const allowedOrigins = [
   'https://crap-cycle-dashboard.vercel.app',
-  'https://crapycycle.vercel.app', // Add your additional origin here
+  'https://crapycycle.vercel.app', 
   'http://localhost:5173',
   'http://localhost:5174',
+  'https://crapcycle-dashboard-frontend-ijlz.vercel.app',
 
   
 
